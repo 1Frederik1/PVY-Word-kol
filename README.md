@@ -1,2 +1,2 @@
-# PVY-Word-kol
+# PVY-Word-úkol
 sikibidi
